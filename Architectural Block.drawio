@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2023-09-30T18:38:08.983Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="22.0.0" etag="n-j1GLQrrvMHnlGwX0Si" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-30T18:44:29.875Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="SIWypQmny-i_bQDwxrMh" version="22.0.0" type="github">
   <diagram name="Page-1" id="TypIy5r2gWOLVjv2K__I">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AnvnLn9k2kMrUc9ITyq--9" value="Breadboard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="210" width="400" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="AnvnLn9k2kMrUc9ITyq--4" value="Arduino Uno" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#009999;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="10" width="470" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="AnvnLn9k2kMrUc9ITyq--2" value="Digital 3 Pin" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="600" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AnvnLn9k2kMrUc9ITyq--3" value="5V" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AnvnLn9k2kMrUc9ITyq--5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#1a79ff;strokeColor=#6c8ebf;" edge="1" parent="1" source="AnvnLn9k2kMrUc9ITyq--3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="270" as="sourcePoint" />
+            <mxPoint x="410" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AnvnLn9k2kMrUc9ITyq--6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#1a79ff;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="639.5" y="120" as="sourcePoint" />
+            <mxPoint x="639.5" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AnvnLn9k2kMrUc9ITyq--7" value="2.4 GHz Antenna" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AnvnLn9k2kMrUc9ITyq--8" value="Light" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="600" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
