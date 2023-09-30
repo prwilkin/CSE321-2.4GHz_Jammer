@@ -1,9 +1,121 @@
-<mxfile host="app.diagrams.net" modified="2023-09-30T17:44:54.840Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="22.0.0" etag="eQjx30oSZWutAenLt6B6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-30T17:55:04.843Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="JOlQ6r9gdDxnifJrNfl_" version="22.0.0" type="github">
   <diagram name="Page-1" id="-EIVKKDKL-pE4kACbGSX">
-    <mxGraphModel>
+    <mxGraphModel dx="875" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="s8oByLIxpFU2TjFB39Sf-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s8oByLIxpFU2TjFB39Sf-1" target="s8oByLIxpFU2TjFB39Sf-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s8oByLIxpFU2TjFB39Sf-1" value="Military Unit" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s8oByLIxpFU2TjFB39Sf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s8oByLIxpFU2TjFB39Sf-2" target="s8oByLIxpFU2TjFB39Sf-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s8oByLIxpFU2TjFB39Sf-2" value="Bad Actor/Enemy Combatant" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="375" y="20" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s8oByLIxpFU2TjFB39Sf-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s8oByLIxpFU2TjFB39Sf-5" target="s8oByLIxpFU2TjFB39Sf-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s8oByLIxpFU2TjFB39Sf-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s8oByLIxpFU2TjFB39Sf-4" value="Conduct Operation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="175" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s8oByLIxpFU2TjFB39Sf-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s8oByLIxpFU2TjFB39Sf-6" target="s8oByLIxpFU2TjFB39Sf-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s8oByLIxpFU2TjFB39Sf-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s8oByLIxpFU2TjFB39Sf-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s8oByLIxpFU2TjFB39Sf-6" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s8oByLIxpFU2TjFB39Sf-7" value="Observe Enemy Combantant/ Spot Possible IED" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="335" y="175" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s8oByLIxpFU2TjFB39Sf-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s8oByLIxpFU2TjFB39Sf-11" target="s8oByLIxpFU2TjFB39Sf-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s8oByLIxpFU2TjFB39Sf-11" value="Engage Jammer" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s8oByLIxpFU2TjFB39Sf-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="s8oByLIxpFU2TjFB39Sf-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s8oByLIxpFU2TjFB39Sf-14" value="No Jammer to Engage" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="140" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="s8oByLIxpFU2TjFB39Sf-15" value="Prevent remote detonation of IED" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s8oByLIxpFU2TjFB39Sf-19" value="Fail to prevent remote detonation of IED" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s8oByLIxpFU2TjFB39Sf-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s8oByLIxpFU2TjFB39Sf-21" target="s8oByLIxpFU2TjFB39Sf-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s8oByLIxpFU2TjFB39Sf-21" value="Police Unit" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="640" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s8oByLIxpFU2TjFB39Sf-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s8oByLIxpFU2TjFB39Sf-23" target="s8oByLIxpFU2TjFB39Sf-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s8oByLIxpFU2TjFB39Sf-23" value="Criminal/Suspect" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="375" y="500" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s8oByLIxpFU2TjFB39Sf-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s8oByLIxpFU2TjFB39Sf-25" target="s8oByLIxpFU2TjFB39Sf-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s8oByLIxpFU2TjFB39Sf-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s8oByLIxpFU2TjFB39Sf-26" value="Conduct Operation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="655" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s8oByLIxpFU2TjFB39Sf-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s8oByLIxpFU2TjFB39Sf-29" target="s8oByLIxpFU2TjFB39Sf-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s8oByLIxpFU2TjFB39Sf-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s8oByLIxpFU2TjFB39Sf-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s8oByLIxpFU2TjFB39Sf-29" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="630" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s8oByLIxpFU2TjFB39Sf-30" value="Observe criminal activity" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="335" y="655" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s8oByLIxpFU2TjFB39Sf-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s8oByLIxpFU2TjFB39Sf-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s8oByLIxpFU2TjFB39Sf-32" value="Engage Jammer" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="760" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s8oByLIxpFU2TjFB39Sf-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="s8oByLIxpFU2TjFB39Sf-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s8oByLIxpFU2TjFB39Sf-34" value="No Jammer to Engage" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="620" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="s8oByLIxpFU2TjFB39Sf-35" value="Prevent communication to outside suspects and isolate individual&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="780" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s8oByLIxpFU2TjFB39Sf-36" value="Prevent communication to outside suspects and isolate individual&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="880" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
