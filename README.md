@@ -1,7 +1,7 @@
 # CSE321-2.4GHz_Jammer
 Code, diagrams, and supporting documents for CSE 321: Real-time Embedded Systems.
 
-# Usage of Codebase and Device
+# Codebase and Hardware
 ## Code base
 In order to use the code base the RF24 Library must be installed. This library can be found on GitHub, link in 
 references section, or on the Arduino Library. This library is maintained by THRh20 and should always use the latest 
@@ -46,7 +46,7 @@ light. The button can be pressed at any point to immediately halt the jamming at
 the antenna can boost performance in certain circumstances.
 
 # Schematics
-![Architectural Block.drawio.png](..%2F..%2F..%2FDownloads%2FArchitectural%20Block.drawio.png)
+![Architectural Block.drawio.png](Phase%202%2FArchitectural%20Block.drawio.png)
 
 # Citations
 ***
