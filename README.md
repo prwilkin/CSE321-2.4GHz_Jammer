@@ -1,6 +1,19 @@
 # CSE321-2.4GHz_Jammer
 Code, diagrams, and supporting documents for CSE 321: Real-time Embedded Systems.
 
+# Citations
+---
+***
+## Sources
+1. Arduino Uno Rev3 Pinout Diagram: https://content.arduino.cc/assets/A000066-full-pinout.pdf
+2. Mini Breadboard Diagram: https://static.javatpoint.com/blog/images/breadboard.png
+3. NRF24L01 + PA/LNA Pinout Graphic: https://howtomechatronics.com/wp-content/uploads/2017/02/NRF24L01-Pinout-NRF24L01-PA-LNA-.png
+
+# References
++ TMRh20,Avamander RF24: A NRF24L01+ Library [Software]. https://github.com/nRF24/RF24
++ Arduino Code Documentation: https://www.arduino.cc/reference/en/
++ Editorial Team - Everything RF. October 6, 2018. 2.4 GHz Wi-Fi 802.11b/g/n Channels and Frequency Band. https://www.everythingrf.com/community/2-4-ghz-wi-fi-802-11b-g-n-channels-and-frequency-band
+
 # Academic Integrity Violation Warning
 
 This code repository is for educational and informational purposes only. Unauthorized copying, modification, distribution,
